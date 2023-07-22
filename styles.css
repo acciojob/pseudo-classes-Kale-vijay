@@ -3,10 +3,8 @@
 	background-color: rgb(135, 206, 235);
 }
 li{
-	background-color:gray;
+	background-color:rgb(255,255,255);
 	width:50%;
 	padding:10px;
 }
-#1s{
-	font-size:22px;
-}
+
