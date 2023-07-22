@@ -4,4 +4,12 @@
 }
 li{
 	background-color: gray;
+	padding:10px;
+}
+#stpara{
+	color:white;
+	background-color: rgb(0,0,0);
+}
+#rdpara{
+	color:red;
 }
